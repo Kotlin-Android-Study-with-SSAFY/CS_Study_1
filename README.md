@@ -22,7 +22,6 @@
 3. 캐시 메모리
 4. 고정 소수점 & 부동 소수점
 5. 패리티 비트 & 해밍 코드
----
 
 ### **📌 2주차: 운영체제 개념 ①**
 1. 운영체제란?
@@ -30,7 +29,6 @@
 3. 프로세스 주소 공간
 4. 인터럽트(Interrupt)
 5. 시스템 콜(System Call)
----
 
 ### **📌 3주차: 운영체제 개념 ②**
 1. PCB와 Context Switching
@@ -38,7 +36,6 @@
 3. CPU 스케줄링
 4. 데드락(DeadLock)
 5. Race Condition
----
 
 ### **📌 4주차: 운영체제 메모리 관리**
 1. 세마포어(Semaphore) & 뮤텍스(Mutex)
@@ -46,7 +43,6 @@
 3. 페이지 교체 알고리즘
 4. 메모리(Memory)
 5. 파일 시스템
----
 
 ### **📌 5주차: 데이터베이스 기초**
 
@@ -55,14 +51,13 @@
 3. SQL Injection
 4. SQL vs NoSQL
 5. 정규화(Normalization)
----
+
 ### **📌 6주차: 네트워크 기초**
 1. OSI 7 계층
 2. TCP 3 way handshake & 4 way handshake
 3. TCP/IP 흐름제어 & 혼잡제어
 4. UDP
 5. 대칭키 & 공개키
----
 
 ### **📌 7주차: 네트워크 심화 & 보안**
 1. HTTP & HTTPS
@@ -70,7 +65,6 @@
 3. 로드 밸런싱(Load Balancing)
 4. Blocking,Non-blocking & Synchronous,Asynchronous
 5. Blocking & Non-Blocking I/O
----
 
 ### **📌 8주차: 소프트웨어 공학 개념**
 1. 클린코드 & 리팩토링
@@ -78,7 +72,6 @@
 3. 애자일(Agile)
 4. 객체 지향 프로그래밍(Object-Oriented Programming)
 5. 함수형 프로그래밍(Fuctional Programming)
----
 
 ### **📌 9주차: 소프트웨어 개발 & 배포**
 1. 데브옵스(DevOps)
