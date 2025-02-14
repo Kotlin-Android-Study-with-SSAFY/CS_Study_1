@@ -2,6 +2,11 @@
 - 면접 스터디라는 느낌보다는 CS의 각자 맡은 파트를 공부하고 발표하며 지식을 공유하고 서로 궁금한 것을 계속 질문하고 이것들을 전부 기록으로 남기는 느낌의 스터디라고 생각해주시면 편할 것 같습니다.
 - Deep Dive하게 할 것이냐, 기본에 충실할 것이냐는 스터디원과 함께 만들어가는 것이라고 생각합니다.
 
+## 멤버
+| <a href="https://github.com/hsl26"><img src="https://avatars.githubusercontent.com/u/100758335?v=4" width="90" height="90"></a> | <a href="https://github.com/kmseongmin"><img src="https://avatars.githubusercontent.com/u/102861243?v=4" width="90" height="90"></a> | <a href="https://github.com/prodksdb"><img src="https://avatars.githubusercontent.com/u/150729023?v=4" width="90" height="90"></a> | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/PSYUN"><img src="https://avatars.githubusercontent.com/u/133249953?v=4" width="90" height="90"></a> |
+| ----- | ----- | ----- | ----- | ----- |
+| [이현수](https://github.com/hsl26) | [김성민](https://github.com/kmseongmin) | [안유진](https://github.com/prodksdb) | [오인성](https://github.com/ois0886) | [박상윤](https://github.com/PSYUN) |
+
 ## 진행 방식
 - 주 1회 2시간
 - 매주 각자 인원에게 할당된 주제를 공부 (아래 예상 진행도 참고)
