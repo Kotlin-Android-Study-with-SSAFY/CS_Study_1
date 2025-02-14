@@ -14,21 +14,37 @@
 - 한명의 발표가 끝나고 면접 느낌으로 스터디원과 Q&A형식으로 질의 응답
 - 정리한 내용을 매주 Github ReadMe 에 업로드
     - 이에 대한 내용은 본인 블로그에 다 가져가셔도 됩니다. (타 스터디원 내용까지도 허용)
+ 
+## 
+```kotlin
+import kotlin.random.Random
+
+fun main() {
+    val names = listOf("오인성", "박상윤", "안유진", "이현수", "김성민")
+    val numbers = (1..5).shuffled().toMutableList() // 1~5를 랜덤하게 섞음
+    
+    val assignments = names.mapIndexed { index, name -> name to numbers[index] } // 이름과 숫자를 매칭
+    
+    assignments.forEach { (name, number) ->
+        println("\${name} -> \${number}")
+    }
+}
+```
 
 ## 예상 진행도
 ### **📌 1주차: 컴퓨터 구조 기초**
-1. 컴퓨터의 구성
-2. 중앙처리장치(CPU) 작동 원리
-3. 캐시 메모리
-4. 고정 소수점 & 부동 소수점
-5. 패리티 비트 & 해밍 코드
+1. 컴퓨터의 구성 (안유진)
+2. 중앙처리장치(CPU) 작동 원리 (김성민)
+3. 캐시 메모리 (이현수)
+4. 고정 소수점 & 부동 소수점 (오인성)
+5. 패리티 비트 & 해밍 코드 (박상윤)
 
 ### **📌 2주차: 운영체제 개념 ①**
-1. 운영체제란?
-2. 프로세스 vs 스레드
-3. 프로세스 주소 공간
-4. 인터럽트(Interrupt)
-5. 시스템 콜(System Call)
+1. 운영체제란? (박상윤)
+2. 프로세스 vs 스레드 (안유진)
+3. 프로세스 주소 공간 (오인성)
+4. 인터럽트(Interrupt) (김성민)
+5. 시스템 콜(System Call) (이현수)
 
 ### **📌 3주차: 운영체제 개념 ②**
 1. PCB와 Context Switching
