@@ -27,7 +27,7 @@ fun main() {
     val assignments = names.mapIndexed { index, name -> name to numbers[index] } // 이름과 숫자를 매칭
     
     assignments.forEach { (name, number) ->
-        println("\${name} -> \${number}")
+        println("${name} -> ${number}")
     }
 }
 ```
