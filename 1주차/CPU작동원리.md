@@ -48,10 +48,15 @@
 
 ## 제어장치 구성요소
 
-- **명령어 레지스터(IR, Instruction Register)**: 현재 실행 중인 명령어를 저장
-- **프로그램 카운터(PC, Program Counter)**: 다음 실행할 명령어의 주소를 저장
-- **디코더(Decoder)**: 명령어를 해석하여 수행할 작업을 결정
-- **제어 신호 발생기(Control Signal Generator)**: CPU 내부 부품들이 적절히 동작하도록 신호를 생성
+- **명령어 레지스터(IR, Instruction Register)**
+    - 현재 실행 중인 명령어를 저장
+- **프로그램 카운터(PC, Program Counter)**
+    - 다음 실행할 명령어의 주소를 가르킴
+    - CPU는 현재 PC가 가르키는 명령어를 실행하고 PC는 다음 명령어의 위치를 가르킴
+- **디코더(Decoder)**
+    - 명령어를 해석하여 수행할 작업을 결정
+- **제어 신호 발생기(Control Signal Generator)**
+    - CPU 내부 부품들이 적절히 동작하도록 신호를 생성
 
 ## 제어장치 주요 기능
 
