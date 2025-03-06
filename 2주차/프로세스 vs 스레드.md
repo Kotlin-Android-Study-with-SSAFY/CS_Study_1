@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6c4b7617-1d96-4b23-abf8-4f676e370270)<aside>
 
 # 📌 프로세스(Process)와 스레드(Thread) 개념 정리
 
