@@ -76,21 +76,21 @@ fun main() {
 4. UDP
 5. 대칭키 & 공개키
 
-### **📌 7주차: 네트워크 심화 & 보안 (2025.04.10)**
+### **📌 7주차: 네트워크 심화 & 보안 (2025.04.10) **
 1. HTTP & HTTPS
 2. TLS/SSL handshake
 3. 로드 밸런싱(Load Balancing)
 4. Blocking,Non-blocking & Synchronous,Asynchronous
 5. Blocking & Non-Blocking I/O
 
-### **📌 8주차: 소프트웨어 공학 개념 (2025.04.17)**
+### **📌 8주차: 소프트웨어 공학 개념 (2025.04.17) <정리만>**
 1. 클린코드 & 리팩토링
 2. TDD(Test Driven Development)
 3. 애자일(Agile)
 4. 객체 지향 프로그래밍(Object-Oriented Programming)
 5. 함수형 프로그래밍(Fuctional Programming)
 
-### **📌 9주차: 소프트웨어 개발 & 배포 (2025.04.24)**
+### **📌 9주차: 소프트웨어 개발 & 배포 (2025.04.24) <정리만>**
 1. 데브옵스(DevOps)
 2. 서드 파티(3rd party)란?
 3. 마이크로서비스 아키텍처(MSA)
