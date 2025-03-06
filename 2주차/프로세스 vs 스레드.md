@@ -1,14 +1,14 @@
-<aside>
+![image](https://github.com/user-attachments/assets/6c4b7617-1d96-4b23-abf8-4f676e370270)<aside>
 
 # 📌 프로세스(Process)와 스레드(Thread) 개념 정리
 
 ## 1️⃣ 프로세스(Process)란?
 
-✅ **운영체제로부터 자원을 할당받은 "자원의 단위"**
-✅ **메모리에 올라와 실행되고 있는 프로그램의 독립적인 개체**
-✅ **운영체제로부터 CPU 시간, 주소 공간(Code, Data, Stack, Heap) 등을 할당받음**
+✅ **운영체제로부터 자원을 할당받은 "자원의 단위"**    
+✅ **메모리에 올라와 실행되고 있는 프로그램의 독립적인 개체**    
+✅ **운영체제로부터 CPU 시간, 주소 공간(Code, Data, Stack, Heap) 등을 할당받음**   
 
-![image.png](attachment:b1a1188e-193e-4b13-a209-6797198d052a:image.png)
+![image](https://github.com/user-attachments/assets/ab225b39-abc2-4620-ada9-ae3a39d5be08)
 
 ### 📌 특징
 
@@ -73,11 +73,12 @@
 
 ## 2️⃣ 스레드(Thread)란?
 
-✅ **프로세스가 할당받은 자원을 이용하는 "실행 흐름의 단위"**
-✅ **프로세스 내에서 동작하는 하나의 실행 경로**
-✅ **프로세스 내에서 각각 Stack을 따로 할당받지만, Code, Data, Heap 영역은 공유**
+✅ **프로세스가 할당받은 자원을 이용하는 "실행 흐름의 단위"**  
+✅ **프로세스 내에서 동작하는 하나의 실행 경로**  
+✅ **프로세스 내에서 각각 Stack을 따로 할당받지만, Code, Data, Heap 영역은 공유**  
 
-![image (1).png](attachment:92171240-bae2-45e4-9102-292d0d993a96:image_(1).png)
+![image (1)](https://github.com/user-attachments/assets/fe81bc71-12cb-4f0b-b35b-3c437e29b9bb)
+
 
 ### 📌 특징
 
