@@ -48,11 +48,11 @@ fun main() {
 5. 시스템 콜(System Call) **(박상윤)**
 
 ### **📌 3주차: 운영체제 개념 ② (2025.03.13)**
-1. PCB와 Context Switching
-2. IPC(Inter Process Communication)
-3. CPU 스케줄링
-4. 데드락(DeadLock)
-5. Race Condition
+1. PCB와 Context Switching **(안유진)**
+2. IPC(Inter Process Communication) **(박상윤)**
+3. CPU 스케줄링 **(이현수)**
+4. 데드락(DeadLock) **(오인성)**
+5. Race Condition **(김성민)**
 
 ### **📌 4주차: 운영체제 메모리 관리 (2025.03.20)**
 1. 세마포어(Semaphore) & 뮤텍스(Mutex)
