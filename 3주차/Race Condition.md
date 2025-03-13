@@ -58,7 +58,7 @@ fun main() = runBlocking {
 
 ### 1-2. Deadlock 예제 : 식사하는 철학자
 
-![image.png](attachment:fff43ed6-64f1-4c53-b044-d4486895e803:image.png)
+![image](https://github.com/user-attachments/assets/18015a17-7fbb-4da0-af60-6c38eeb91806)
 
 - 원형 테이블에 철학자들이 식사 할려고 앉아서 동시에 식사를 시작함
 - 철학자들은 식사를 시작하기 위해서는 두개의 젓가락이 필요함
