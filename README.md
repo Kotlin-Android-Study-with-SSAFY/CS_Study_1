@@ -63,11 +63,11 @@ fun main() {
 
 ### **📌 5주차: 데이터베이스 기초 (2025.04.03)**
 
-1. 키(Key) 정리
-2. SQL - JOIN
-3. SQL Injection
-4. SQL vs NoSQL
-5. 정규화(Normalization)
+1. 키(Key) 정리 **(안유진)**
+2. SQL - JOIN **(박상윤)**
+3. SQL Injection **(김성민)**
+4. SQL vs NoSQL **(이현수)**
+5. 정규화(Normalization) **(오인성)**
 
 ### **📌 6주차: 네트워크 기초 (2025.04.10)**
 1. OSI 7 계층
