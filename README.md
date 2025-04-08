@@ -69,21 +69,21 @@ fun main() {
 4. SQL vs NoSQL **(이현수)**
 5. 정규화(Normalization) **(오인성)**
 
-### **📌 6주차: 네트워크 기초 (2025.04.10)**
+### **📌 6주차: 네트워크 기초 (2025.04.17)**
 1. OSI 7 계층 **(이현수)**
 2. TCP 3 way handshake & 4 way handshake **(안유진)**
 3. TCP/IP 흐름제어 & 혼잡제어 **(오인성)**
 4. UDP **(박상윤)** 
 5. 대칭키 & 공개키 **(김성민)**
 
-### **📌 7주차: 네트워크 심화 & 보안 (2025.04.17) **
+### **📌 7주차: 네트워크 심화 & 보안 (2025.04.24) **
 1. HTTP & HTTPS
 2. TLS/SSL handshake
 3. 로드 밸런싱(Load Balancing)
 4. Blocking,Non-blocking & Synchronous,Asynchronous
 5. Blocking & Non-Blocking I/O
 
-### **📌 8주차: 소프트웨어 공학 개념 (2025.04.24) <정리만>**
+### **📌 8주차: 소프트웨어 공학 개념 (2025.05.01) <정리만>**
 1. 클린코드 & 리팩토링
 2. TDD(Test Driven Development)
 3. 애자일(Agile)
