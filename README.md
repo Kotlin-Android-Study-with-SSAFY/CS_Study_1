@@ -70,11 +70,11 @@ fun main() {
 5. 정규화(Normalization) **(오인성)**
 
 ### **📌 6주차: 네트워크 기초 (2025.04.10)**
-1. OSI 7 계층
-2. TCP 3 way handshake & 4 way handshake
-3. TCP/IP 흐름제어 & 혼잡제어
-4. UDP
-5. 대칭키 & 공개키
+1. OSI 7 계층 **(이현수)**
+2. TCP 3 way handshake & 4 way handshake **(안유진)**
+3. TCP/IP 흐름제어 & 혼잡제어 **(오인성)**
+4. UDP **(박상윤)** 
+5. 대칭키 & 공개키 **(김성민)**
 
 ### **📌 7주차: 네트워크 심화 & 보안 (2025.04.17) **
 1. HTTP & HTTPS
