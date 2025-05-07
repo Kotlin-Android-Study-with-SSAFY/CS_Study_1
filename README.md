@@ -77,11 +77,11 @@ fun main() {
 5. 대칭키 & 공개키 **(김성민)**
 
 ### **📌 7주차: 네트워크 심화 & 보안 (2025.05.08)**
-1. HTTP & HTTPS
-2. TLS/SSL handshake
-3. 로드 밸런싱(Load Balancing)
-4. Blocking,Non-blocking & Synchronous,Asynchronous
-5. Blocking & Non-Blocking I/O
+1. HTTP & HTTPS **(박상윤)**
+2. TLS/SSL handshake **(오인성)**
+3. 로드 밸런싱(Load Balancing) **(이현수)**
+4. Blocking,Non-blocking & Synchronous,Asynchronous **(김성민)**
+5. Blocking & Non-Blocking I/O **(안유진)**
 
 ### **📌 8주차: 소프트웨어 공학 개념 <정리만>**
 1. 클린코드 & 리팩토링
